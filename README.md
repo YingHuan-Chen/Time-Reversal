@@ -14,7 +14,7 @@ pip install diffusers transformers accelerate opencv-python configargparse
 python main.py
 ```
 
-Citation
+## Citation
 ```
 @article{feng2024explorative,
   title={Explorative Inbetweening of Time and Space},
